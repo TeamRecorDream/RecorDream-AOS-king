@@ -126,12 +126,12 @@ class DocumentBottomSheetFragment private constructor(
     }
 
     private fun convertBitmapToImageUri(bitmap: Bitmap): Uri? {
-        val tempFile = File(requireContext().cacheDir, IMAGE_FORMAT)
         var outputStream: FileOutputStream? = null
+        val tempFile = File(requireContext().cacheDir, IMAGE_FORMAT)
 
         runCatching {
             outputStream = FileOutputStream(tempFile)
-            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, outputStream)
+            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, outputStream!!)
             outputStream?.flush() ?: throw IllegalArgumentException()
         }.onFailure {
             Log.e("error", it.message.toString())

@@ -11,14 +11,14 @@ Properties properties = new Properties()
 properties.load(project.rootProject.file('local.properties').newDataInputStream())
 
 android {
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.team.recordream"
         minSdk 26
-        targetSdk 33
-        versionCode 3
-        versionName "3"
+        targetSdk 34
+        versionCode 4
+        versionName "4"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
