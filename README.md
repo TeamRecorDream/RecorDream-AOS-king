@@ -1,4 +1,4 @@
-# RecorDream-Aos
+# RecorDream-Aos [다운받으러가기](https://play.google.com/store/apps/details?id=com.team.recordream)
 <img src="https://github.com/user-attachments/assets/7999e4a9-0bf5-46da-a1fb-8959d978f671" alt="1242_2208" width="600" height="600" />
 
 ## 💟 Contributors
@@ -6,7 +6,7 @@
 |                                                    [김세훈](https://github.com/s9hn)                                                     |                                                 [최윤정](https://github.com/cbj0010)                                                  |                                                  [유지민](https://github.com/urjimyu)                                                  |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://avatars.githubusercontent.com/u/81347125?v=4" width="200px" height="320dp">| <img src="https://avatars.githubusercontent.com/u/66460447?v=4" width="200px" height="320dp"> | <img src="https://avatars.githubusercontent.com/u/92876819?v=4" width="200px" height="320dp"> |
-|                                                                 `홈뷰`<br>`기록하기`<br>`카드 뷰`<br>`음성녹음`<br>`검색필터` <br>`소셜로그인`                                                                 |                                                             `마이페이지`<br>`푸시알림`<br>`보관함 뷰`<br>`코스상세`<br>`마이페이지`<br>`로그아웃`<br>`로딩 뷰`                                                              |                                                            `인스타 공유`<br>                                
+|                                                                 `홈뷰`<br>`기록하기`<br>`카드 뷰`<br>`음성녹음`<br>`검색필터` <br>`소셜로그인`                                                                 |                                                             <br>`푸시알림`<br>`보관함 뷰`<br>`코스상세`<br>`마이페이지`<br>`로그아웃`<br>`로딩 뷰`                                                              |                                                            `인스타 공유`<br>                                
 
 
 ## 👋 커밋 컨벤션
@@ -77,11 +77,7 @@
 
 ```
 
-## 목차
-
----
-
-## 🩷 프로젝트 설명
+## 📝 프로젝트 설명
 
 ---
 
@@ -111,12 +107,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac28aa5c-f378-48e0-84c3-34123f5f9539" align="center" width="24%">  
-  <img src="https://github.com/user-attachments/assets/f797997e-07c0-45a8-95c7-851f31b0b701" align="center" width="24%">  
-   <img src="https://github.com/user-attachments/assets/33414843-2b59-434c-b7df-26ead1821296" align="center" width="24%">  
-   <img src="https://github.com/user-attachments/assets/33d64ca1-c071-4348-ac40-87a6d2b238ce" align="center" width="24%">  
-  
-  <figcaption align="center">주요 기능</figcaption>
+  <img src="https://github.com/user-attachments/assets/ac28aa5c-f378-48e0-84c3-34123f5f9539" align="center" width="40%">  
+  <img src="https://github.com/user-attachments/assets/f797997e-07c0-45a8-95c7-851f31b0b701" align="center" width="40%">  
+   <img src="https://github.com/user-attachments/assets/33414843-2b59-434c-b7df-26ead1821296" align="center" width="40%">  
+   <img src="https://github.com/user-attachments/assets/33d64ca1-c071-4348-ac40-87a6d2b238ce" align="center" width="40%">  
 </p>
 
 
